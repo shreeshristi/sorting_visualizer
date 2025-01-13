@@ -1,6 +1,6 @@
 
+![Screenshot 2025-01-13 161503](https://github.com/user-attachments/assets/c7c1db1f-744c-4afb-992e-b83158cc048b)
 
-<img width="960" alt="image" src="https://github.com/user-attachments/assets/12dad8e2-f7d8-46ac-b983-3fc59bec7e8f" />
 
 
 Sorting Algorithms Visualization Web Application
